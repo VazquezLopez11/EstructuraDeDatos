@@ -1,0 +1,15 @@
+C:\Users\borre\OneDrive\Desktop\3° SEMESTRE\Estructuras de Datos\invertir un numero entero\invertir un numero entero\bin\Debug\net10.0\invertir un numero entero.exe
+C:\Users\borre\OneDrive\Desktop\3° SEMESTRE\Estructuras de Datos\invertir un numero entero\invertir un numero entero\bin\Debug\net10.0\invertir un numero entero.deps.json
+C:\Users\borre\OneDrive\Desktop\3° SEMESTRE\Estructuras de Datos\invertir un numero entero\invertir un numero entero\bin\Debug\net10.0\invertir un numero entero.runtimeconfig.json
+C:\Users\borre\OneDrive\Desktop\3° SEMESTRE\Estructuras de Datos\invertir un numero entero\invertir un numero entero\bin\Debug\net10.0\invertir un numero entero.dll
+C:\Users\borre\OneDrive\Desktop\3° SEMESTRE\Estructuras de Datos\invertir un numero entero\invertir un numero entero\bin\Debug\net10.0\invertir un numero entero.pdb
+C:\Users\borre\OneDrive\Desktop\3° SEMESTRE\Estructuras de Datos\invertir un numero entero\invertir un numero entero\obj\Debug\net10.0\invertir un numero entero.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\borre\OneDrive\Desktop\3° SEMESTRE\Estructuras de Datos\invertir un numero entero\invertir un numero entero\obj\Debug\net10.0\invertir un numero entero.AssemblyInfoInputs.cache
+C:\Users\borre\OneDrive\Desktop\3° SEMESTRE\Estructuras de Datos\invertir un numero entero\invertir un numero entero\obj\Debug\net10.0\invertir un numero entero.AssemblyInfo.cs
+C:\Users\borre\OneDrive\Desktop\3° SEMESTRE\Estructuras de Datos\invertir un numero entero\invertir un numero entero\obj\Debug\net10.0\invertir un numero entero.csproj.CoreCompileInputs.cache
+C:\Users\borre\OneDrive\Desktop\3° SEMESTRE\Estructuras de Datos\invertir un numero entero\invertir un numero entero\obj\Debug\net10.0\invertir un numero entero.dll
+C:\Users\borre\OneDrive\Desktop\3° SEMESTRE\Estructuras de Datos\invertir un numero entero\invertir un numero entero\obj\Debug\net10.0\refint\invertir un numero entero.dll
+C:\Users\borre\OneDrive\Desktop\3° SEMESTRE\Estructuras de Datos\invertir un numero entero\invertir un numero entero\obj\Debug\net10.0\invertir un numero entero.pdb
+C:\Users\borre\OneDrive\Desktop\3° SEMESTRE\Estructuras de Datos\invertir un numero entero\invertir un numero entero\obj\Debug\net10.0\invertir un numero entero.genruntimeconfig.cache
+C:\Users\borre\OneDrive\Desktop\3° SEMESTRE\Estructuras de Datos\invertir un numero entero\invertir un numero entero\obj\Debug\net10.0\ref\invertir un numero entero.dll
+C:\Users\borre\OneDrive\Desktop\3° SEMESTRE\Estructuras de Datos\invertir un numero entero\invertir un numero entero\obj\Debug\net10.0\invertir.3B54A890.Up2Date
