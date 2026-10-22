@@ -1,0 +1,15 @@
+C:\Users\borre\Desktop\3° SEMESTRE\Estructuras de Datos\Codigos\Potencia de dos numeros\Potencia de dos numeros\bin\Debug\net10.0\Potencia de dos numeros.exe
+C:\Users\borre\Desktop\3° SEMESTRE\Estructuras de Datos\Codigos\Potencia de dos numeros\Potencia de dos numeros\bin\Debug\net10.0\Potencia de dos numeros.deps.json
+C:\Users\borre\Desktop\3° SEMESTRE\Estructuras de Datos\Codigos\Potencia de dos numeros\Potencia de dos numeros\bin\Debug\net10.0\Potencia de dos numeros.runtimeconfig.json
+C:\Users\borre\Desktop\3° SEMESTRE\Estructuras de Datos\Codigos\Potencia de dos numeros\Potencia de dos numeros\bin\Debug\net10.0\Potencia de dos numeros.dll
+C:\Users\borre\Desktop\3° SEMESTRE\Estructuras de Datos\Codigos\Potencia de dos numeros\Potencia de dos numeros\bin\Debug\net10.0\Potencia de dos numeros.pdb
+C:\Users\borre\Desktop\3° SEMESTRE\Estructuras de Datos\Codigos\Potencia de dos numeros\Potencia de dos numeros\obj\Debug\net10.0\Potencia de dos numeros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\borre\Desktop\3° SEMESTRE\Estructuras de Datos\Codigos\Potencia de dos numeros\Potencia de dos numeros\obj\Debug\net10.0\Potencia de dos numeros.AssemblyInfoInputs.cache
+C:\Users\borre\Desktop\3° SEMESTRE\Estructuras de Datos\Codigos\Potencia de dos numeros\Potencia de dos numeros\obj\Debug\net10.0\Potencia de dos numeros.AssemblyInfo.cs
+C:\Users\borre\Desktop\3° SEMESTRE\Estructuras de Datos\Codigos\Potencia de dos numeros\Potencia de dos numeros\obj\Debug\net10.0\Potencia de dos numeros.csproj.CoreCompileInputs.cache
+C:\Users\borre\Desktop\3° SEMESTRE\Estructuras de Datos\Codigos\Potencia de dos numeros\Potencia de dos numeros\obj\Debug\net10.0\Potencia de dos numeros.dll
+C:\Users\borre\Desktop\3° SEMESTRE\Estructuras de Datos\Codigos\Potencia de dos numeros\Potencia de dos numeros\obj\Debug\net10.0\refint\Potencia de dos numeros.dll
+C:\Users\borre\Desktop\3° SEMESTRE\Estructuras de Datos\Codigos\Potencia de dos numeros\Potencia de dos numeros\obj\Debug\net10.0\Potencia de dos numeros.pdb
+C:\Users\borre\Desktop\3° SEMESTRE\Estructuras de Datos\Codigos\Potencia de dos numeros\Potencia de dos numeros\obj\Debug\net10.0\Potencia de dos numeros.genruntimeconfig.cache
+C:\Users\borre\Desktop\3° SEMESTRE\Estructuras de Datos\Codigos\Potencia de dos numeros\Potencia de dos numeros\obj\Debug\net10.0\ref\Potencia de dos numeros.dll
+C:\Users\borre\Desktop\3° SEMESTRE\Estructuras de Datos\Codigos\Potencia de dos numeros\Potencia de dos numeros\obj\Debug\net10.0\Potencia.309BC420.Up2Date

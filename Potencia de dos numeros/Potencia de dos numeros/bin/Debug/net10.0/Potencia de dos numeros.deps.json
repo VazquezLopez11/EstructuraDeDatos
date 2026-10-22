@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Potencia de dos numeros/1.0.0": {
+        "runtime": {
+          "Potencia de dos numeros.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Potencia de dos numeros/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
