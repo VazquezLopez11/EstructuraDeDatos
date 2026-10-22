@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "determinar si un numero es par o impar/1.0.0": {
+        "runtime": {
+          "determinar si un numero es par o impar.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "determinar si un numero es par o impar/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
