@@ -1,0 +1,15 @@
+C:\Users\borre\Desktop\3° SEMESTRE\Estructuras de Datos\Codigos\Serie de Fibonacci\Serie de Fibonacci\bin\Debug\net10.0\Serie de Fibonacci.exe
+C:\Users\borre\Desktop\3° SEMESTRE\Estructuras de Datos\Codigos\Serie de Fibonacci\Serie de Fibonacci\bin\Debug\net10.0\Serie de Fibonacci.deps.json
+C:\Users\borre\Desktop\3° SEMESTRE\Estructuras de Datos\Codigos\Serie de Fibonacci\Serie de Fibonacci\bin\Debug\net10.0\Serie de Fibonacci.runtimeconfig.json
+C:\Users\borre\Desktop\3° SEMESTRE\Estructuras de Datos\Codigos\Serie de Fibonacci\Serie de Fibonacci\bin\Debug\net10.0\Serie de Fibonacci.dll
+C:\Users\borre\Desktop\3° SEMESTRE\Estructuras de Datos\Codigos\Serie de Fibonacci\Serie de Fibonacci\bin\Debug\net10.0\Serie de Fibonacci.pdb
+C:\Users\borre\Desktop\3° SEMESTRE\Estructuras de Datos\Codigos\Serie de Fibonacci\Serie de Fibonacci\obj\Debug\net10.0\Serie de Fibonacci.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\borre\Desktop\3° SEMESTRE\Estructuras de Datos\Codigos\Serie de Fibonacci\Serie de Fibonacci\obj\Debug\net10.0\Serie de Fibonacci.AssemblyInfoInputs.cache
+C:\Users\borre\Desktop\3° SEMESTRE\Estructuras de Datos\Codigos\Serie de Fibonacci\Serie de Fibonacci\obj\Debug\net10.0\Serie de Fibonacci.AssemblyInfo.cs
+C:\Users\borre\Desktop\3° SEMESTRE\Estructuras de Datos\Codigos\Serie de Fibonacci\Serie de Fibonacci\obj\Debug\net10.0\Serie de Fibonacci.csproj.CoreCompileInputs.cache
+C:\Users\borre\Desktop\3° SEMESTRE\Estructuras de Datos\Codigos\Serie de Fibonacci\Serie de Fibonacci\obj\Debug\net10.0\Serie de Fibonacci.dll
+C:\Users\borre\Desktop\3° SEMESTRE\Estructuras de Datos\Codigos\Serie de Fibonacci\Serie de Fibonacci\obj\Debug\net10.0\refint\Serie de Fibonacci.dll
+C:\Users\borre\Desktop\3° SEMESTRE\Estructuras de Datos\Codigos\Serie de Fibonacci\Serie de Fibonacci\obj\Debug\net10.0\Serie de Fibonacci.pdb
+C:\Users\borre\Desktop\3° SEMESTRE\Estructuras de Datos\Codigos\Serie de Fibonacci\Serie de Fibonacci\obj\Debug\net10.0\Serie de Fibonacci.genruntimeconfig.cache
+C:\Users\borre\Desktop\3° SEMESTRE\Estructuras de Datos\Codigos\Serie de Fibonacci\Serie de Fibonacci\obj\Debug\net10.0\ref\Serie de Fibonacci.dll
+C:\Users\borre\Desktop\3° SEMESTRE\Estructuras de Datos\Codigos\Serie de Fibonacci\Serie de Fibonacci\obj\Debug\net10.0\Serie de.B729EF8C.Up2Date
